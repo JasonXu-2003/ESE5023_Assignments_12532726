@@ -1,3 +1,3 @@
 # ESE5023_Assignments_12532726
 
-#The aim of this repository is for submiting my course assignments of the ESE5023.
+#This repository is for submitting my ESE5023 course assignments.

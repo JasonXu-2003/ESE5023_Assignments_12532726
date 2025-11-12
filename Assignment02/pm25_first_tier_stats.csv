@@ -1,0 +1,5 @@
+City,Total_Days,Daily_Mean,Daily_Median,Daily_Std,Daily_Min,Daily_Max,Exceed_Days_35,Exceed_Days_75,Max_Exceed75_Month,Max_Exceed75_Days
+Beijing,3028,56.442,40.0,55.192,2.0,476.0,1647,731,2015-12,20
+Shanghai,3026,40.783,33.0,30.534,2.0,461.0,1368,325,2013-12,23
+Guangzhou,3028,33.306,28.0,20.765,1.0,155.0,1074,132,2014-01,21
+Shenzhen,3028,26.042,23.0,15.87,1.0,131.0,679,39,2013-12,18
